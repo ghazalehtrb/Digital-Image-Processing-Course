@@ -17,7 +17,7 @@ to for more information.
 <em>sFCM on noisy MRIs vs MATLABs built-in FCM</em>
 </p>
 
-# Implementation
+## Implementation
 
 
 
