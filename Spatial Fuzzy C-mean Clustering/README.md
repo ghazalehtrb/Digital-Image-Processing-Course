@@ -3,12 +3,8 @@ FCM (fuzzy c-means clustering) is an unsupervised method used for image segmenta
 Please refer "[Fuzzy c-means clustering with spatial information for image segmentation](https://www-sciencedirect-com.lib-ezproxy.concordia.ca/science/article/pii/S0895611105000923)"
 to for more information.
 
-<br/>
-Activity recognition results on construction workers!
-<br/>
-<div align="center" style="width:image width px;">
-  <img  src="https://github.com/ghazalehtrb/Digital-Image-Processing-Course/blob/master/Spatial%20Fuzzy%20C-mean%20Clustering/Capture.PNG" alt="T1 and T2 weighted MRIs">
-</div>
+![alt text](Spatial Fuzzy C-mean Clustering/Capture.PNG?raw=true)
+
 
 
 
