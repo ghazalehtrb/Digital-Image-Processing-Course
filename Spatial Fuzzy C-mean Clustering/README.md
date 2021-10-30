@@ -8,7 +8,7 @@ to for more information.
 </div>
 
 <div align="center" style="width:image width px;">
-  <img  src="https://github.com/ghazalehtrb/Digital-Image-Processing-Course/blob/e1769bec473351b5910fc66225eabf2fe9515970/Spatial%20Fuzzy%20C-mean%20Clustering/picture2.png?raw=true" width=400 alt="sFCM on noisy MRIs vs MATLABs built-in FCM">
+  <img  src="https://github.com/ghazalehtrb/Digital-Image-Processing-Course/blob/e1769bec473351b5910fc66225eabf2fe9515970/Spatial%20Fuzzy%20C-mean%20Clustering/Picture2.png?raw=true" width=400 alt="sFCM on noisy MRIs vs MATLABs built-in FCM">
 </div>
 
 
