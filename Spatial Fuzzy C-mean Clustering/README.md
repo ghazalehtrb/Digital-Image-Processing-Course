@@ -7,7 +7,7 @@ to for more information.
 
 <br/>
 <div align="center" style="width:image width px;">
-  <img  src="https://github.com/ghazalehtrb/Digital-Image-Processing-Course/blob/master/Spatial%20Fuzzy%20C-mean%20Clustering/Capture.PNG" width=400 alt="T1 and T2 weighted MRIs">
+  <img  src="https://github.com/ghazalehtrb/Digital-Image-Processing-Course/blob/master/Spatial%20Fuzzy%20C-mean%20Clustering/Capture.PNG" alt="T1 and T2 weighted MRIs">
 </div>
 
 
