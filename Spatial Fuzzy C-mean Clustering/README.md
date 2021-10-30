@@ -18,6 +18,14 @@ to for more information.
 </p>
 
 ## Implementation
+This repository contains the implementation of sFCM in MATLAB. sFCM performs image segmentation by clustering points in n-dimensional feature space. The features used here are intensity values of T1-weighted and T2-weighted images. The image matrices are flattened and used as the first and second dimensions of the feature space. 
+
+The controlling parameters of sFCM are 𝑚, controlling the level of fuzziness, the window size 𝑤, a threshold for convergence, the maximum iterations, and 𝑝 and 𝑞, controlling the relative importance of membership value of center pixel (𝑢) and the total membership value of the neighborhood (ℎ). sFCM then uses both of these values to compute the final membership value (𝑢′). Index 𝑖𝑗 shows the relation between pixel 𝑥𝑗 and cluster 𝑖 with 𝑣𝑖 as its center, 𝑁 is the number of points, 𝐶 is the number of clusters and 𝑁𝐵(𝑥𝑗) is the neighborhood of pixel 𝑥𝑗. Membership values, cluster centers, and spatial values are computed as follows:
+
+<div align="center" style="width:image width px;" >
+  <img  src="https://github.com/ghazalehtrb/Digital-Image-Processing-Course/blob/a80fa0fcc331161662c01023077b85692950c230/Spatial%20Fuzzy%20C-mean%20Clustering/eq.PNG?raw=true" width=600 alt="equations">
+</div>
+
 
 
 
