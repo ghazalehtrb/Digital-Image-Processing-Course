@@ -3,7 +3,7 @@ FCM (fuzzy c-means clustering) is an unsupervised method used for image segmenta
 Please refer "[Fuzzy c-means clustering with spatial information for image segmentation](https://www-sciencedirect-com.lib-ezproxy.concordia.ca/science/article/pii/S0895611105000923)"
 to for more information.
 
-![alt text](Spatial Fuzzy C-mean Clustering/Capture.PNG?raw=true)
+![alt text](https://github.com/ghazalehtrb/Digital-Image-Processing-Course/blob/e1769bec473351b5910fc66225eabf2fe9515970/Spatial%20Fuzzy%20C-mean%20Clustering/Capture.PNG?raw=true)
 
 
 
