@@ -4,7 +4,7 @@ Please refer "[Fuzzy c-means clustering with spatial information for image segme
 to for more information.
 
 <br/>
-
+Activity recognition results on construction workers!
 <br/>
 <div align="center" style="width:image width px;">
   <img  src="https://github.com/ghazalehtrb/Digital-Image-Processing-Course/blob/master/Spatial%20Fuzzy%20C-mean%20Clustering/Capture.PNG" alt="T1 and T2 weighted MRIs">
