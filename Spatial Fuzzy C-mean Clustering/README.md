@@ -4,10 +4,10 @@ Please refer "[Fuzzy c-means clustering with spatial information for image segme
 to for more information.
 
 <br/>
-T1 and T2 weighted MRIs
+
 <br/>
 <div align="center" style="width:image width px;">
-  <img  src="https://github.com/ghazalehtrb/Digital-Image-Processing-Course/tree/main/Spatial%20Fuzzy%20C-mean%20Clustering/Capture.PNG" width=400 alt="activity recognition of construction workers">
+  <img  src="https://github.com/ghazalehtrb/Digital-Image-Processing-Course/blob/master/Spatial%20Fuzzy%20C-mean%20Clustering/Capture.PNG" width=400 alt="T1 and T2 weighted MRIs">
 </div>
 
 
