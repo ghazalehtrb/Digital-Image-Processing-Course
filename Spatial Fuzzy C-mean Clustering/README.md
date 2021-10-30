@@ -10,8 +10,9 @@ to for more information.
   <img  src="https://github.com/ghazalehtrb/Digital-Image-Processing-Course/blob/e1769bec473351b5910fc66225eabf2fe9515970/Spatial%20Fuzzy%20C-mean%20Clustering/Capture.PNG?raw=true" width=400 alt="T1 and T2 weighted MRIs">
 </div>
 
-<div align="center" style="width:image width px;">
-  <img  src="https://github.com/ghazalehtrb/Digital-Image-Processing-Course/blob/79acf0e3516b24d5da7707d433b9d87a9e2842b5/Spatial%20Fuzzy%20C-mean%20Clustering/Picture2.png?raw=true" width=600 alt="sFCM on noisy MRIs vs MATLABs built-in FCM" <em>sFCM on noisy MRIs vs MATLABs built-in FCM</em>>
+<div align="center" style="width:image width px;", >
+  <img  src="https://github.com/ghazalehtrb/Digital-Image-Processing-Course/blob/79acf0e3516b24d5da7707d433b9d87a9e2842b5/Spatial%20Fuzzy%20C-mean%20Clustering/Picture2.png?raw=true" width=600 alt="sFCM on noisy MRIs vs MATLABs built-in FCM">
+ <em>sFCM on noisy MRIs vs MATLABs built-in FCM</em>
 </div>
 
 
